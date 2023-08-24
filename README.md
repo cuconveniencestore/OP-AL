@@ -104,28 +104,30 @@
 
 | 메인 페이지<br/>(로그인 전)                                                                                           | 메인 페이지<br/>(로그인 후)                                                                                                       |
 | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| ![user-main](https://github.com/DevYBecca/OP-AL_toyproject_1st/assets/125433485/da01748f-8522-40ea-a5f0-56c4ac912eff) | ![user-main-reservation](https://github.com/DevYBecca/OP-AL_toyproject_1st/assets/125433485/72de3974-ecf1-4817-a79d-b38126288785) |
+| ![user-main](https://github.com/cuconveniencestore/OP-AL/assets/125563995/d4b77171-9e26-4fb9-845d-2432282cddd5) | ![user-main-reservation](https://github.com/cuconveniencestore/OP-AL/assets/125563995/6cb5a804-8e30-40e5-b880-365357e19942) |
 
 | 로그인                                                                                                                  | 회원가입                                                                                                                |
 | ----------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| ![user-signin](https://github.com/DevYBecca/OP-AL_toyproject_1st/assets/125433485/4562a912-ba74-4fe8-ae93-34836b22b6fa) | ![user-signup](https://github.com/DevYBecca/OP-AL_toyproject_1st/assets/125433485/68dff152-8054-4297-a7bf-cfd663e1a318) |
+| ![user-signin](https://github.com/cuconveniencestore/OP-AL/assets/125563995/09d70e59-7982-475d-8002-432c8a7b0927) | ![user-signup](https://github.com/cuconveniencestore/OP-AL/assets/125563995/75cd60a9-ddb5-4236-b659-978de6b4c908) |
 
 | 메인 페이지 퀵메뉴<br/>(로그인 후)                                                                                              | 제품 검색 페이지                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| ![user-main-quickmenu](https://github.com/DevYBecca/OP-AL_toyproject_1st/assets/125433485/865469d2-ac77-40db-94b7-2a258fbe2213) | ![user-search](https://github.com/DevYBecca/OP-AL_toyproject_1st/assets/125433485/c11e748e-f802-4fdb-8689-da31a27e7bb2) |
+| ![user-main-quickmenu](https://github.com/cuconveniencestore/OP-AL/assets/125563995/aacfef97-689e-4c72-91f5-6f5fe83797fe) | ![user-search](https://github.com/cuconveniencestore/OP-AL/assets/125563995/e1b405f5-6ec2-4969-9e83-eeef1fae3dc8) |
 
 | 제품 상세 페이지                                                                                                               | 제품 결제 페이지                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
-| ![user-productdetail](https://github.com/DevYBecca/OP-AL_toyproject_1st/assets/125433485/ac6df4ad-f0be-4603-bc0b-db8f8109c938) | ![user-productpayment](https://github.com/DevYBecca/OP-AL_toyproject_1st/assets/125433485/db47980a-1c76-4ac8-a3fc-fb9f40d0ec3a) |
+| ![user-productdetail](https://github.com/cuconveniencestore/OP-AL/assets/125563995/9eb35a7f-1e38-4b8f-adfa-d746251bda03) | ![user-productpayment](https://github.com/cuconveniencestore/OP-AL/assets/125563995/b042e872-6f21-48b8-81d3-165515063707) |
 
 | 마이 페이지<br/>(내 정보)                                                                                                    | 마이 페이지<br/>(내 계좌)                                                                                                       |
 | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| ![user-mypage-info](https://github.com/DevYBecca/OP-AL_toyproject_1st/assets/125433485/8b84e3e2-884d-436f-a8f2-60db780abda5) | ![user-mypage-account](https://github.com/DevYBecca/OP-AL_toyproject_1st/assets/125433485/18cf99c3-7582-4957-96e8-d576f3aefee8) |
+| ![user-mypage-info](https://github.com/cuconveniencestore/OP-AL/assets/125563995/2a1d14cd-7d44-4fb0-86b6-64690dc51882) | ![user-mypage-account](https://github.com/cuconveniencestore/OP-AL/assets/125563995/0ec137bf-2934-456c-9ae7-4518378ab5e0) |
 
 | 마이 페이지<br/>(구매 내역)                                                                                                      | 마이 페이지<br/>(구매 취소)                                                                                                        |
 | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| ![user-mypage-purchase](https://github.com/DevYBecca/OP-AL_toyproject_1st/assets/125433485/a7ea86d7-77bc-4a5a-9ab1-e7518e651dbe) | ![user-reservationcancel](https://github.com/DevYBecca/OP-AL_toyproject_1st/assets/125433485/edfed6f8-a70a-4f03-9782-b1f9cc8bcd3e) |
+| ![user-mypage-purchase](https://github.com/cuconveniencestore/OP-AL/assets/125563995/eda535b2-65d5-4b97-a4d9-7db9c35bd7b9) | ![user-reservationcancel](https://github.com/cuconveniencestore/OP-AL/assets/125563995/1ba1fba5-6e21-42af-930d-ca61e9959c21) |
 
 ## 📌 담당 페이지 및 기능 구현
 
 ## 📌 프로젝트 회고
+
+
